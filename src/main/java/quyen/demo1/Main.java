@@ -8,6 +8,9 @@ import javafx.stage.Stage;
 
 public class Main extends Application {
 
+  public static void print() {
+    System.out.println("UP rồi ma sao không hiện");
+  }
   public static void main(String[] args) {
     launch(args);
   }
